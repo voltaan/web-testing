@@ -1,1 +1,4 @@
-document.writeln("Testando roba a caso");
+function Messaggio()
+{
+    window.alert("Mi hai cliccato!")
+}
